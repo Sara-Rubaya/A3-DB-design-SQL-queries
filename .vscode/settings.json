@@ -10,7 +10,7 @@
             "database": "demoDb",
             "username": "postgres",
             "password": "1234",
-            "connectionTimeout": 30
+            "connectionTimeout": 60
         }
     ]
 }
